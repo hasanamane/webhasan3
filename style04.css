@@ -1,0 +1,219 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+  
+}
+
+.co-mnue
+{
+    background-color:#eee;
+    position: sticky;
+    top: 0px;
+    z-index:100 ;
+ 
+
+}
+ 
+
+nav div ul li
+{
+display: inline-block;
+padding: 40px;
+}
+nav div ul li a{
+    text-decoration: none;
+    color: #67809b;
+    text-align: center;
+    font-size: 18px;
+   
+}
+nav div ul li a:hover
+{
+    background-color: tomato;
+    padding: 40px;
+
+}
+.q1
+{
+    font-size:28px ;
+    color: red;
+}
+.logo
+{
+    float: right;
+    padding:40px;
+}
+.co-alogo
+{
+    text-decoration: none;
+    padding-right: 160px;
+}
+nav
+{
+    padding-left: 160px;
+}
+.co-span
+{
+    color: #e9770c;
+    font-size: 28px;
+   
+}
+.Home
+{
+    
+    padding-top: 100px;
+    padding-left: 15px;
+    background-color:#d1ccc0 ;
+padding-bottom: 160px;}
+.q2
+{
+    color:white;
+    padding-left: 6px;
+}
+img
+{
+    width: 340px;
+    height: 240px;
+position: relative;
+top: 3px;
+
+    float: right;
+    border-radius:25px 25px 25px 25px;
+padding-right: 150px;
+}
+.co-api
+{
+    box-shadow: 20%;
+}
+.sidenav
+{
+    height: 100%;
+    width:0;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    left: 0;
+    border: 1px solid  black;
+    box-sizing: border-box;
+    background-color: #253342;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+
+
+}
+
+.sidenav a 
+{
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    color: white;
+  display: block;
+  font-size: 25px;
+  transition: 0.3s;
+
+
+}
+.sidenav a:hover
+{
+    color: #0652DD;
+}
+sidenav .closebtn
+{
+ position: absolute;
+ top: 0px;
+ right: 25px;
+ font-size: 36px;
+ margin-left: 50px;
+}
+#main
+{
+    transition: margin-left .5s;
+    padding: 16px;
+
+}
+span
+{
+    font-size: 30px;
+    cursor: pointer;
+}
+.co-under #main
+{
+    display:inline;
+}
+
+.stretched-link
+{
+    text-decoration: none;
+    background-color: #67809b;
+    border: 1px solid ;
+    color: white;
+    font-size: 30px;
+}
+.Skills
+{
+    color: #d1ccc0;
+    background-color: #485460;
+}
+.Skills h4{
+    display: inline-block;
+    padding: 40px 20px 10px 290px;
+}
+.co-html
+{
+    padding: 40px 20px 10px 290px;
+  
+    border-radius: 50%;
+   width: 2px;
+
+}
+.co-next button
+{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-color: #e9770c;
+}
+footer
+{
+    background-color: #253342;
+    position: absolute;
+    width: 100%;
+    
+}
+footer .co-h4
+{
+    padding-top: 50px;
+    padding-left: 500px;
+    padding-bottom: 50px;
+    color: #eee;
+    clear: both;
+}
+.co-h4-2
+{
+    padding-left: 25px;
+
+    color: #eee;
+    display: inline-block;
+}
+
+.co-whatsapp{
+    text-decoration: none;
+    color: #e9770c;
+}
+.co-whatsapp:hover
+{
+    color: #eee;
+}
+.co-cp
+{
+    color: #eee;
+    font-size: 14px;
+}
+.co-icons a
+{ 
+    padding-left: 25px;
+
+}
